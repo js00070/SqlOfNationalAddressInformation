@@ -12,4 +12,4 @@ CREATE TABLE `area` (
   KEY `area_pid_index` (`pid`),
   KEY `area_name_index` (`name`),
   KEY `area_level_index` (`level`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
